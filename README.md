@@ -18,9 +18,7 @@ Currently actively participating in multiple hackathons to showcase my skills, c
 ---
 ### 📈 GitHub Stats
 
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIRU-VIRU&show_icons=true&hide_title=true&theme=dark)
-
+![Hiruthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIRU-VIRU&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 
 ---
