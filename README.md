@@ -19,7 +19,8 @@ Currently actively participating in multiple hackathons to showcase my skills, c
 ### 📈 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIRU-VIRU&show_icons=true&count_private=true&include_all_commits=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIRU-VIRU&show_icons=true&hide_title=true&theme=dark)
+
 
 
 ---
@@ -68,3 +69,14 @@ This table showcases my certifications and achievements.
 | 5  | IITM BS DEGREE Topper Badges              | IIT Madras                 | Recognition: Topper Badges in BS Degree Program |
 
 
+### Footer
+---
+  *The badges below change automatically according to certain conditions. <br> Example: If my website goes down, the badge below will automatically change to "website down". <br><br> Please note that these badges are managed by shields.io*
+  
+  | Name | Badges |
+  | ---- | ------ |
+  | Portfolio | [![Portfolio](https://img.shields.io/website?down_message=Website%20down.&up_message=It's%20working%20fine!&url=https://sites.google.com/ds.study.iitm.ac.in/hiruthiksudhakar-portfolio/home)](https://sites.google.com/ds.study.iitm.ac.in/hiruthiksudhakar-portfolio/home) |
+  | GitHub Profile | [![GitHub](https://img.shields.io/website?down_message=GitHub%20profile%20down.&up_message=It's%20working%20fine!&url=https://github.com/HIRU-VIRU)](https://github.com/HIRU-VIRU) |
+  | LinkedIn | [![LinkedIn](https://img.shields.io/website?down_message=LinkedIn%20profile%20down.&up_message=It's%20working%20fine!&url=https://www.linkedin.com/in/hiruthik-sudhakar/)](https://www.linkedin.com/in/hiruthik-sudhakar/) |
+  | LeetCode | [![LeetCode](https://img.shields.io/website?down_message=LeetCode%20profile%20down.&up_message=It's%20working%20fine!&url=https://leetcode.com/u/HiruthikSudhakar/)](https://leetcode.com/u/HiruthikSudhakar/) |
+  | Team Project (Traffic Men) | [![Project](https://img.shields.io/website?down_message=Project%20down.&up_message=It's%20working%20fine!&url=https://kishoreb.xyz/traffic-men.github.io/)](https://kishoreb.xyz/traffic-men.github.io/) |
