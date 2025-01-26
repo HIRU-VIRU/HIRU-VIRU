@@ -1,3 +1,4 @@
+ 
 # Hi there, I'm Hiruthik Sudhakar 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HIRU-VIRU&color=blue&style=flat-square)
@@ -7,13 +8,23 @@ Currently actively participating in multiple hackathons to showcase my skills, c
 
 ---
 
-### 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+## 🛠️ Tech Stack
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+</div>
 
 ---
 ### 📈 GitHub Stats
@@ -21,6 +32,17 @@ Currently actively participating in multiple hackathons to showcase my skills, c
 ![Hiruthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIRU-VIRU&show_icons=true&count_private=true&hide_title=true)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HIRU-VIRU)
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HIRU-VIRU&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="500"/>
+  
+</div>
+
+
+![GitHub followers](https://img.shields.io/github/followers/HIRU-VIRU?style=flat-square)
+![Stars](https://img.shields.io/github/stars/HIRU-VIRU?style=flat-square)
+
 
 
 ---
@@ -39,9 +61,13 @@ Currently actively participating in multiple hackathons to showcase my skills, c
 
 ---
 
-### 🚀 Featured Projects
-- **Real-time Traffic Prediction**  
-  AI-powered platform for scheduling and dispatching in Chennai.  
+## 🚀 Featured Projects
+ ### **Real-time Traffic Prediction**
+ **Key features**
+ - Real-Time Traffic Monitoring  
+ - Demand Prediction  
+ - Routing Optimization  
+ - Autonomous Decision-Making  
   [View Repository](https://github.com/HIRU-VIRU/traffic-men)
 
 ---
