@@ -6,9 +6,11 @@
 I'm a **Data Science Dual Degree student at IIT Madras**,**Passionate about solving real-world problems through technology, always eager to learn and grow in my journey of continuous innovation**.  
 Currently actively participating in multiple hackathons to showcase my skills, collaborate with like-minded individuals, and tackle real-world challenges through innovative solutions..
 
+
+You can view my BS degree profile by clicking  [here](https://app.onlinedegree.iitm.ac.in/student/24F2001283#).
 ---
 
-## 🛠️ Tech Stack
+## 🛠️**Tech Stack**
 
 
 <div align="center">
