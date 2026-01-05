@@ -2,7 +2,7 @@ name: Generate Contribution Activity Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate GitHub Activity Graph
-        uses: ashutosh00710/github-readme-activity-graph@v2
+        uses: ashutosh00710/github-readme-activity-graph@master
         with:
           username: hiru-viru
           theme: github-light
