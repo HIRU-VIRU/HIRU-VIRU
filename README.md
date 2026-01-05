@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hiruthik%20Sudhakar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Hiru-Viru&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hiruthik%20Sudhakar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <div align="center">
@@ -128,8 +128,15 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/hiru-viru/hiru-viru/output/github-readme-activity-graph.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hiru-viru&theme=vue&hide_border=true&area=true&custom_title=Contribution%20Activity&point=36BCF7&line=36BCF7&days=365"
     alt="Contribution Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiru-viru&theme=vue"
+    alt="Profile Details"
   />
 </p>
 
