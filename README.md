@@ -124,7 +124,7 @@
 
 
 
-## 📈 Contribution Activity
+## Activity
 
 <p align="center">
   <img 
