@@ -23,8 +23,9 @@
   />
 </p>  
 
-🎓 **BS in Programming & Data Science** — IIT Madras  
-🎓 **BTech in Artificial Intelligence & Machine Learning** — SEC
+🎓 **BS in Programming & Data Science** — IIT Madras'27
+<br>
+🎓 **BTech in Artificial Intelligence & Machine Learning** — SEC'27
 
 ---
 
