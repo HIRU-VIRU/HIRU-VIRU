@@ -1,14 +1,12 @@
-<div align="center">
-  
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hiruthik+Sudhakar;Hiru-Viru" alt="Typing SVG" />
-  </h1>
-  
-</div>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=ML%20Engineer%20|%20AI%20Systems%20Architect&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hiruthik%20Sudhakar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Hiru-Viru&descAlignY=55&descAlign=50" />
 </p>
+
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+AI+Systems+Architect" alt="Typing SVG" />
+  </h2>
+</div>
 
 <p align="center">
   <img 
@@ -21,7 +19,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=SIH'25+Finalist;3x+National+Hackathon+Finalist" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=SIH'25+Finalist;3x+National+Hackathon+Finalist" 
   />
 </p>  
 
@@ -129,5 +127,9 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hiru-viru/hiru-viru/output/github-readme-activity-graph.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/hiru-viru/hiru-viru/output/github-readme-activity-graph.svg"
+    alt="Contribution Activity Graph"
+  />
 </p>
+
